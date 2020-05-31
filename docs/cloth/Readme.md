@@ -1,4 +1,4 @@
-# 胶囊衣橱（33件衣服一辈子的计划）
+# 胶囊衣橱
 
 > 思路：
 >
@@ -31,27 +31,27 @@
 1. Toys Mccoy Felix Cat
 2. Toys Mccoy 大逃亡
 
-### 内衣（2套）
+### 内衣
 
 1. 始祖鸟 Phase AR
 2. Patagonia C3
 
-### 卫衣 （2件）
+### 卫衣
 
 1. Toys Mccoy 卡通 灰白色
 2. Toys Mccoy 大逃亡 蓝色
 
-### 毛衣 （2件）
+### 毛衣
 
 1. The Real Mccoy Aran 毛衣
 2. 费尔岛毛衣
 
-### 夹克（2件）
+### 夹克
 
 1. Freewheelers Denim
 2. The Real Mccoy M65
 
-## 裤子 (总计4件)
+## 裤子
 
 ### 长裤
 
@@ -63,7 +63,7 @@
 
 1. 始祖鸟速干裤
 
-## 鞋 (总计7件)
+## 鞋
 
 1. 匡威 1970s 白色
 2. BB 德国训练鞋

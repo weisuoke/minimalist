@@ -14,6 +14,13 @@ module.exports = {
         collapsable: true,
         sidebarDepth: 1,
         children: []
+      },
+      {
+        title: '行动指南',
+        path: '/action/',
+        collapsable: true,
+        sidebarDepth: 1,
+        children: []
       }
     ]
   }
